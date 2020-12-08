@@ -1,1 +1,1 @@
-# LinearRegressio_IA
+# LinearRegression_IA
