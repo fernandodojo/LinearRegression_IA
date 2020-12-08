@@ -1,0 +1,26 @@
+Atacante    62
+Defensor    58
+Name: Classe, dtype: int64
+0    62
+1    58
+Name: Classe, dtype: int64
+MAE:0.16343247252235799
+MSE:0.03955331814745046
+RMSE:0.19810199524963212
+R2:0.8391087374030166
+
+
+ACC:0.9916666666666667
+F1:0.9914529914529915
+PRECISION:0.9830508474576272
+RECALL:1.0
+Matrix de Confusao:[[61  1]
+ [ 0 58]]
+Coefficients: [ 1.97692736 -2.86158241  0.58894816 -0.90022875 -0.23339237]
+Intercept: 1.1234637867545614
+Jogadores Desconhecidos
+Atacante    16
+Defensor    14
+Name: Classe, dtype: int64
+ 
+#Coeficientes na ordem das colunas da base removendo id e idade
